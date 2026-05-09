@@ -1,8 +1,3 @@
-<div align="center">
-
-<!-- Animated header wave -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arva&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=arvamadax%20·%20Teknik%20Komputer%20FILKOM%20UB&descAlignY=55&descSize=16)
-
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+JelantahHub+%F0%9F%8C%B1;Eco-Fintech+for+a+greener+future+%E2%99%BB%EF%B8%8F;Computer+Engineering+%40+Brawijaya+Univ;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -125,7 +120,3 @@
 ![snake gif](https://github.com/arvamadax/arvamadax/blob/output/github-contribution-grid-snake-dark.svg)
 
 <sub>🌱 Code for a better world · ♻️ Built with purpose · 💻 Always learning</sub>
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
